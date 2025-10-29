@@ -1,4 +1,4 @@
-package com.miempresa.gestoroperaciones;
+package com.miempresa.reportecambios;
 
 import com.getcapacitor.BridgeActivity;
 

@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "com.miempresa.gestoroperaciones"
+    namespace "com.miempresa.reportecambios"
     compileSdk rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "com.miempresa.gestoroperaciones"
+        applicationId "com.miempresa.reportecambios"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

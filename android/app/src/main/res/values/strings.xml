@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">GestordeOperaciones</string>
-    <string name="title_activity_main">GestordeOperaciones</string>
-    <string name="package_name">com.miempresa.gestoroperaciones</string>
-    <string name="custom_url_scheme">com.miempresa.gestoroperaciones</string>
+    <string name="app_name">reportecambios</string>
+    <string name="title_activity_main">reportecambios</string>
+    <string name="package_name">com.miempresa.reportecambios</string>
+    <string name="custom_url_scheme">com.miempresa.reportecambios</string>
 </resources>
